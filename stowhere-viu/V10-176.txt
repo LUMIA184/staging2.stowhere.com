@@ -1,4 +1,4 @@
 ../wprentals-child/libs/ajax_functions_edit.php
 Line 2064 - 2098, 2110
-heeeeeeeeeeeeeeee
+
 ******************************************************

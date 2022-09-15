@@ -1,0 +1,44 @@
+v10-156
+../wprentals-child/dashboard/templates/user_profile.php
+Line 159 - 170
+
+--------------------------
+
+../wprentals-child/templates/property_header2.php
+Line 36
+
+--------------------------
+
+../wprentals-child/includes/wprentals_js.php
+Line 155 - 159
+Line 197 199
+
+--------------------------
+
+../wprentals-child/libs/help_functions.php
+Line 70, 85 - 103, 105, 110, 291, 293 - 296, 298, 301 - 304
+
+--------------------------
+
+../wprentals-child/libs/css_js_include.php
+Line 765, 769 - 782, 817
+
+--------------------------
+
+../wprentals-child/js/property.js
+Line 724-738, 1186 - 1197, 1201
+
+--------------------------
+
+../wprentals-child/footer.php
+Line 126
+
+--------------------------
+
+../wprentals-child/style.css
+Line 922 - 929, 983 - 988
+
+--------------------------
+
+../wprentals-child/single-estate_property.php
+Line 160-162, 165, 167-170

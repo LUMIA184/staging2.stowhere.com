@@ -1,0 +1,8 @@
+V10-167
+../wprentals-child/includes/wprentals_ajax.php
+Line 364, 407 - 438
+
+--------------------------
+
+../wprentals-child/functions.php
+Line 1668 - 1734

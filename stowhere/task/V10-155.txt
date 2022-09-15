@@ -1,0 +1,26 @@
+v10-155
+
+../wprentals-child/templates/agent_unit.php
+Line 21 - 25
+
+--------------------------
+
+../wprentals-child/templates/property_unit.php
+Line 120 - 124
+
+--------------------------
+
+../wprentals-child/templates/property_unit_3.php
+Line 108 - 112
+
+--------------------------
+
+../wprentals-child/templates/property_unit_wide.php
+Line 111 - 115
+
+--------------------------
+
+../wprentals-child/templates/property_unit_widget.php
+Line 82 - 86
+
+--------------------------

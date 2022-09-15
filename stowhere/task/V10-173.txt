@@ -1,0 +1,4 @@
+V10-173
+
+../wprentals-child/dashboard/templates/submit_templates/booking_title_section.php
+Line 31 - 51

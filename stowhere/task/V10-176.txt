@@ -1,0 +1,8 @@
+V10-176
+../wprentals-child/templates/listingslider.php
+Line 15-49, 102, 122
+
+--------------------------
+
+../wprentals-child/templates/submit_templates/property_details.php
+Line 176

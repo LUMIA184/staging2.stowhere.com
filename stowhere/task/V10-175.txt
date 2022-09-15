@@ -1,0 +1,23 @@
+V10-175
+../wprentals-child/templates/submit_templates/property_price.php
+Line 419 - 423, 429, 434 - 436, 590 - 594, 656 - 660, 746 - 750, 1061 - 1067, 1260 - 1290
+
+--------------------------
+
+../wprentals-child/libs/css_js_include.php
+Line 821
+
+--------------------------
+
+../wprentals-child/js/ajaxcall_add.js
+Line 1309 - 1331, 1457
+
+--------------------------
+
+../wprentals-child/includes/wprentals_js.php
+Line 159 - 161
+
+--------------------------
+
+../wprentals-child/dashboard/templates/user_profile.php
+Line 172 - 180

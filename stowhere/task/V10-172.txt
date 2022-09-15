@@ -1,0 +1,48 @@
+V10-172
+../wprentals-child/footer.php
+Line 34
+
+--------------------------
+
+../wprentals-child/header.php
+Line 60, 262
+
+--------------------------
+
+../wprentals-child/js/ajaxcalls.js
+Line 131, 160
+
+--------------------------
+
+../wprentals-child/libs/search_functions4.php
+Line 359 - 365
+
+--------------------------
+
+../wprentals-child/libs/search_functions3.php
+Line 336 - 661, 993 - 1023, 1035 - 1088
+
+--------------------------
+
+../wprentals-child/functions.php
+Line 1559 - 1592
+
+--------------------------
+
+../wprentals-child/v_advanced_search_results.php
+Full file
+
+--------------------------
+
+../wprentals-child/classes/rentalsSearch.php
+Line 859 - 933
+
+--------------------------
+
+../wprentals-child/templates/half_map_core.php
+Line 37 - 127
+
+--------------------------
+
+../wprentals-child/templates/advanced_search_map_list.php
+Line 57 - 104

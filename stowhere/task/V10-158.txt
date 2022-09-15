@@ -1,0 +1,21 @@
+V10-158
+
+../wprentals-child/includes/wprentals_woocommerce.php
+Line 251 - 292, 419 - 441
+
+--------------------------
+
+../wprentals-child/libs/ajax_functions_booking.php
+Line 2022 - 2032, 2038
+
+--------------------------
+
+../wprentals-child/functions.php
+Line 345 - 354, 360
+
+--------------------------
+
+../plugins/ww-edit/ww-edit.php
+Line 1282 - 1781
+
+--------------------------

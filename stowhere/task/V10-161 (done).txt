@@ -1,0 +1,33 @@
+v10-161
+../wprentals-child/includes/wprentals_js.php
+Line 517 - 523
+
+--------------------------
+
+../wprentals-child/functions.php
+Line 1035 - 1037
+Line 1058 - 1063
+Line 1161 - 1191
+Line 1195
+Line 1203 - 1209
+
+--------------------------
+
+../wprentals-child/templates/listingslider.php
+Line 18
+
+--------------------------
+
+../wprentals-child/single-estate_property.php
+Line 156 - 175
+
+--------------------------
+
+../wprentals-child/templates/login_modal_form.php
+Line 23, 25
+
+--------------------------
+
+../wprentals-child/js/property.js
+Line 115 - 132
+Line 1158 - 1175

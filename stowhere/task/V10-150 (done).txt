@@ -1,0 +1,77 @@
+v10-150
+../wprentals-child/templates/submit_templates/property_price.php
+Line 31
+Line 1036-1046
+Line 1052-1067
+
+--------------------------
+
+../wprentals-child/templates/submit_templates/property_description.php
+Line 374 - 383
+
+--------------------------
+
+../wprentals-child/templates/submit_templates/property_description_first.php
+Line 318 - 325
+
+--------------------------
+
+../wprentals-child/js/ajaxcalls_add.js
+Line 298 - 301
+Line 342
+Line 1309
+Line 1356 - 1368
+Line 1418 - 1419
+Line 1453 - 1456
+Line 1491
+
+--------------------------
+
+../wprentals-child/functions.php
+Line 1502 - 1511
+
+--------------------------
+
+../wprentals-child/header.php
+Line 153 - 163
+
+--------------------------
+
+../wprentals-child/libs/ajax_functions_edit.php
+Line 405
+Line 736 - 759
+Line 1086 - 1111
+
+Line 2215
+Line 2224 - 2228
+Line 2485
+Line 2505
+
+--------------------------
+
+../wprentals-child/user_dashboard_edit_listing.php
+Line 86
+Line 89 - 91
+Line 199 - 202
+
+--------------------------
+
+../wprentals-child/style.css
+Line 753 - 801
+
+--------------------------
+
+../wprentals-child/dashboard/templates/book-listing-unit.php
+Line 81 - 158
+
+--------------------------
+
+../wprentals-child/includes/wprentals_js.php
+Line 217 - 225
+Line 290 - 293
+Line 308 - 379
+
+--------------------------
+
+../wprentals-child/includes/wprentals_ajax.php
+Line 217 - 219

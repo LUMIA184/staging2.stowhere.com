@@ -1,0 +1,26 @@
+v10-160
+../wprentals-child/libs/css_js_include.php
+Line 70
+
+--------------------------
+
+../wprentals-child/js/daterangepicker.js
+Line 836-840
+Line 951
+
+--------------------------
+
+../wprentals-child/style.css
+Line 804-814
+
+--------------------------
+
+../wprentals-child/libs/pin_management.php
+Line 633 - 673
+Line 688 - 689
+
+--------------------------
+
+../wprentals-child/js/property.js
+Line 641 (624)
+Line 707-738 (690 - 721)

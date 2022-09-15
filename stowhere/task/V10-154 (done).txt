@@ -1,0 +1,64 @@
+v10-154
+../wprentals-child/style.css
+Line 816 - 955
+
+--------------------------
+
+../wprentals-child/functions.php
+Line 1514 - 1558
+
+--------------------------
+
+../wprentals-child/footer.php
+Line 158, 160
+
+--------------------------
+
+../wprentals-child/templates/login_modal_form.php
+Line 83 - 112
+
+--------------------------
+
+../wprentals-child/templates/mobile_menu.php
+Line 92 - 93
+Line 103
+Line 126 - 127
+Line 129
+Line 139 - 144
+
+--------------------------
+
+../wprentals-child/libs/ajax_functions.php
+Line 1626
+Line 1633
+Line 1638
+Line 1651
+Line 1654 - 1657
+Line 1668
+Line 1685
+
+--------------------------
+
+../wprentals-child/js/ajaxcalls.js
+Line 1140 - 1143
+Line 1218-1219
+Line 1486 - 1489
+
+--------------------------
+
+../wprentals-child/js/control.js
+Line 2028 - 2029
+
+--------------------------
+
+../wprentals-child/includes/wprentals_js.php
+Line 411 - 429
+Line 490 - 551
+Line 608 - 616
+
+--------------------------
+
+../wprentals-child/includes/wprentals_ajax.php
+Line 330
+
+--------------------------
